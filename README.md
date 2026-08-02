@@ -61,8 +61,8 @@ group_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ricky-col/group_project.git
-cd group_project
+git clone https://github.com/NehaSahithi/TaskFlow.git
+cd TaskFlow
 ```
 
 ### 2. Backend Setup
